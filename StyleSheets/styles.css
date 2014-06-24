@@ -1,0 +1,60 @@
+
+
+body {
+    background-image: url("http://subtlepatterns.com/patterns/brickwall.png");
+}
+
+h1 {
+	font-size:50px;
+	color: #A80000;
+	margin-bottom: 0;
+	text-align: center;
+	font-family: Didot;
+}
+
+ul {
+	text-font: Didot;
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 1;
+    overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+a {
+    display: block;
+    width: 150px;
+    
+}
+
+a:visited, a:hover, a:active{
+    color: purple;
+}
+
+.img {
+	text-align: center;
+}
+
+.para {
+	
+	background-image: url("http://maxcdn.thedesigninspiration.com/wp-content/uploads/2013/08/Triangular-l.jpg");
+	font-family: Arial;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	border: solid 1px black;
+}
+/*Hello World and Goodbye World from class*/
+
+.para1 {
+	text-align: center;
+	font-family: Didot;
+	color: grey;
+	font-size: 20px;
+}
+
+

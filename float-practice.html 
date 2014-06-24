@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en"> 
+<head> 
+
+	<title>Floating Practice</title>
+
+	<!-- Main Styles -->
+	<link rel="stylesheet" href="Float.css"/>
+	<!-- CSS Resets -->
+	<link rel="stylesheet" href="normalize.css"/>
+
+</head>
+
+<body>
+	<header>
+		<h1>This is a Floating Practice Site</h1>
+
+	</header>
+
+	<div id="left-nav-container">
+			<img src="http://placehold.it/100x150">
+
+	</div>
+
+	<div id="main-content-container">
+
+	</div>
+
+	<div id="right-nav-container">
+
+	</div>
+
+</body>
+
+<footer>
+	<div id="bottom-nav-container">
+		<h2> This is a container</h2>
+
+	</div>
+
+</footer>
+
+</html>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en"> 
+<head> 
+
+	<title>Floating Practice</title>
+
+	<!-- Main Styles -->
+	<link rel="stylesheet" href="Float.css"/>
+	<!-- CSS Resets -->
+	<link rel="stylesheet" href="normalize.css"/>
+
+</head>
+
+<body>
+	<h1>This is a Floating Practice Site</h1>
+	<div id="main-nav-container">
+		<div 
+
+
+
+
+</body>
+
+</html>
